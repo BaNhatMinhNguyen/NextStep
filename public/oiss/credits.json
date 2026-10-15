@@ -1,0 +1,59 @@
+{
+  "source_page": "https://oiss.tulane.edu/get-involved",
+  "retrieved_on": "2026-09-25",
+  "reuse": {
+    "copyright_notice": "https://tulane.edu/copyright-notice",
+    "summary": "Tulane permits download for personal, non-commercial use. The general notice separately permits local research or educational use by nonprofit organizations with the prescribed notice; other distribution requires prior written consent. No asset-specific open license or photographer credit was visible on the OISS source page.",
+    "suggested_credit": "Photo: Tulane University Office of International Students & Scholars"
+  },
+  "selected": [
+    {
+      "role": "wide-community-strip",
+      "image_url": "https://oiss.tulane.edu/sites/default/files/ISAB-picnic%20mentors%20pm_0.jpg",
+      "source_page": "https://oiss.tulane.edu/get-involved",
+      "dimensions": [
+        800,
+        600
+      ],
+      "description": "Five students talking together on blankets outdoors beneath a tree, used beside Become a TUPal on the official Get Involved page.",
+      "alt": "Tulane students talking together at an outdoor OISS community gathering.",
+      "crop": "For 16:9 at 800 by 450, crop near y=45 to y=495; CSS object-position: 50% 30% retains the faces and most seated gestures."
+    },
+    {
+      "role": "secondary-community-card",
+      "image_url": "https://oiss.tulane.edu/sites/default/files/2025-05/cc_pic_3_-_copy.jpg",
+      "source_page": "https://oiss.tulane.edu/get-involved",
+      "dimensions": [
+        3671,
+        2544
+      ],
+      "description": "A student and staff member in conversation across a table with coffee and an open publication; official source alt is student and staff talking.",
+      "alt": "A student and staff member talking over coffee at Tulane.",
+      "crop": "4:3 center crop removes little horizontal content; CSS object-position: 50% 50% works."
+    },
+    {
+      "role": "welcome-panel",
+      "source_page": "https://oiss.tulane.edu/",
+      "image_url": "https://oiss.tulane.edu/sites/default/files/2023-10/orientation_table_coffe_800_600_1.jpg",
+      "dimensions": [
+        800,
+        600
+      ],
+      "description": "Smiling students sitting together at a Tulane orientation table, with welcome materials and coffee. This is the homepage Orientations card image.",
+      "alt": "Students sharing a table during Tulane international student orientation.",
+      "crop": "For a 4:5 panel, use object-fit: cover and object-position: 70% 50%. This yields an approximately 480 by 600 crop focused on the three students toward the right. Suitable for a compact panel around 320 to 400 CSS pixels wide; this is an 800 by 600 source, not a large print asset."
+    },
+    {
+      "role": "landscape-community-card",
+      "source_page": "https://oiss.tulane.edu/engagement",
+      "image_url": "https://oiss.tulane.edu/sites/default/files/2025-09/iew_globalcafe_111924-2756_scr.jpg",
+      "dimensions": [
+        1100,
+        733
+      ],
+      "description": "A participant dancing in a bright red outfit while others clap, with international bunting and trees visible through windows. OISS Engagement page banner; filename identifies Global Cafe.",
+      "alt": "Community members dancing and clapping at an OISS Global Cafe gathering.",
+      "crop": "Native ratio is about 3:2. For a 16:9 card, use object-fit: cover and object-position: 50% 42%; keep the dancer face and outstretched arm visible. A 4:3 compact card can use object-position: 58% 50%."
+    }
+  ]
+}
